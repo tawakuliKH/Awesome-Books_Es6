@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://tawakulikh.github.io/Awesome-Books-ES6/)
+- [Live Demo Link](https://tawakulikh.github.io/Awesome-Books_Es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
